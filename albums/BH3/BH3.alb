@@ -1,0 +1,34 @@
+<webalbum version="1.8.2">
+  <title>BH3</title>
+  <settings>
+    <photosize width="640" height="480">medium</photosize>
+    <thumbsize width="100" height="75">medium</thumbsize>
+    <homeurl>https://glaremasters.github.io/GoW4AllLvls/albums.html</homeurl>
+    <outputdirectory>C:\Users\Brad\Documents\GitHub\GoW4AllLvls\albums\BH3\</outputdirectory>
+    <navigateinloop>False</navigateinloop>
+  </settings>
+  <layout>
+    <colourscheme>Default</colourscheme>
+    <pagecolor>16777215</pagecolor>
+    <textcolor>0</textcolor>
+    <linkcolor>16711680</linkcolor>
+    <hotlinkcolor>255</hotlinkcolor>
+    <thumbnailrows>5</thumbnailrows>
+    <thumbnailcols>4</thumbnailcols>
+    <navigationbelowphoto>False</navigationbelowphoto>
+  </layout>
+  <photographs>
+    <photo>
+      <filename>C:\Users\Brad\Documents\GitHub\GoW4AllLvls\albums\Partial Black Hole\Partial Black Hole 3_4308.jpg</filename>
+    </photo>
+    <photo>
+      <filename>C:\Users\Brad\Documents\GitHub\GoW4AllLvls\albums\Partial Black Hole\Partial Black Hole 3_6193.jpg</filename>
+    </photo>
+    <photo>
+      <filename>C:\Users\Brad\Documents\GitHub\GoW4AllLvls\albums\Partial Black Hole\Partial Black Hole 3_6678.jpg</filename>
+    </photo>
+    <photo>
+      <filename>C:\Users\Brad\Documents\GitHub\GoW4AllLvls\albums\Partial Black Hole\Partial Black Hole 3_9677.jpg</filename>
+    </photo>
+  </photographs>
+</webalbum>
